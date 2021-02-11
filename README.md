@@ -1,9 +1,5 @@
-# -GAME-Auto-Player
-CS386 group 10 project
-Hello My Dear Teamates!
-If you seeing this, there is nonthing but...
-Check the discord daily!
-Go to the meeting on time!
-
+# Clash Of Clans Auto-Player
+## CS386 group 10 project
+We've set out to create a Python program that automates some of the processes in the mobile game Clash Of Clans.
 
 PyAutoGUI Doc:https://pyautogui.readthedocs.io/en/latest/
