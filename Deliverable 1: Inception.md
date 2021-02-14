@@ -120,7 +120,6 @@ that would facilitate competitive play.
 - Base Searching (N)
 - Easy connection to account and installation (M)\
  
- 
 
 
 
