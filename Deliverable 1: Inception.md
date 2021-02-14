@@ -154,4 +154,27 @@ that would facilitate competitive play.
 -Automated resource collection (N)
 -Builder queue (M)
 
+### Interview 7: 
+ 
+**Interviewer:** Ran Li\
+**Interviewee:** Xiaokai Wang\
+**When:** 2/11/21\
+**Consumer Segments:** Clash of Clans player
+ 
+**Summary:** He gave a brief description of the design of the game and what he expected of the game. There are some unique perspectives on game mechanics. And his satisfaction with nurturing games.
+ 
+**Key Insights:** 
+- Game mechanics
+- Game feedback to players
+ 
+**Representative Quotes:**
+- “Building level up, clan wall construction and resource gathering.”
+- “The pleasure of successfully attacking the enemy.”
+ 
+**Assessment:** Must have (M), Nice to have (N), Don't care (D) 
+- Building level up (M)
+- clan wall construction (M)
+- attack (M)
+- spend a lot of time (D)
+
 ## 4. Final Value Proposition and Consumer Segments
