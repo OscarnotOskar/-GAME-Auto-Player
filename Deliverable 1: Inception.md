@@ -45,7 +45,6 @@ that would facilitate competitive play.
 - Customizability (M)
 - Notifications (N)
 
-
 ### Interview 2: 
 
 **Interviewer:** Devin O'Neal\
@@ -75,7 +74,6 @@ that would facilitate competitive play.
  
 **Summary:** Discovered similar priorities to those already brainstormed. Had a few other ideas that might become options if able. Stressed the importance of connecting to a game account quickly with little hassle. Simplicity and convenience were also mentioned several times.
  
- 
 **Key Insights:** 
 - Simple Installation
 - Should follow the terms and conditions of the game
@@ -91,9 +89,6 @@ that would facilitate competitive play.
 - Building Queue (M)
 - Base scouting (N)
  
- 
- 
- 
 ### Interview 4: 
  
 **Interviewer:** Miles Brown\
@@ -108,8 +103,6 @@ that would facilitate competitive play.
 - Should be able to turn on and off easily
 - Customizable
  
- 
- 
 **Representative Quotes:**
 “[L]eave me with more time to do the more fun things in game”
 “Easy installation would be nice”
@@ -119,8 +112,46 @@ that would facilitate competitive play.
 - Resource Gathering (N)
 - Base Searching (N)
 - Easy connection to account and installation (M)\
- 
 
+### Interview 5:
 
+***Interviewer:** Ulugbek Abdullayev
+***Interviewee:** Zyled Rodriguez
+***When:** 2/10/21
+***Consumer Segments:** Active Clash of Clans player
+
+**Summary:** Zyled used to play Clash of Clans actively in the past and she wanted to recover her village at level 70. “I do not want to go through the mundane activities like collecting resources and upgrading towers” she said. She doesn’t need the software to do everything for her but collecting resources every 5 minutes is ideal for her. She prefers a user-friendly interface.
+
+**Key Insights:**
+-	User-friendly Interface preferred 
+-	Need help collecting resources and builder queue
+
+**Representative Quotes:**
+-	"I do not want to go through the mundane activities like collecting resources and upgrading towers "
+
+**Assessment:** Must have (M), Nice to have (N), Don't care (D)
+-	Automated Resource collecting(M)
+-	User-friendly Interface(N)
+-	Finding good attacks(D)
+
+### Interview 6:
+
+**Interviewer:** Ulugbek Abdullayev
+**Interviewee:** Usman Khakimi
+**When:** 2/11/21
+**Consumer Segments:**  Dedicated strategy game player 
+
+**Summary:**  Usman started playing strategic games several years ago and expressed deep pain when It comes to assigning builders in clash of clans. “Sometimes, upgrading a clan requires 2-3 days and it may be timed for midnight. It is very frustrating to set up an alarm to make sure the builders are active” he said. He prefers a good design in the software but also functionality as well. He mentioned that hid PC is not very powerful so the software should run smoothly in low settings
+
+**Key Insights:**
+- Prefers a good design and functionality
+- Should run smoothly in low settings
+
+**Representative Quotes:**
+-"Sometimes, upgrading a clan requires 2-3 days and it may be timed for midnight. It is very frustrating to set up an alarm to make sure the builders are active"
+
+**Assessment:** Must have (M), Nice to have (N), Don't care (D)
+-Automated resource collection (N)
+-Builder queue (M)
 
 ## 4. Final Value Proposition and Consumer Segments
