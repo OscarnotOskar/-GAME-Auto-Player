@@ -27,7 +27,7 @@ _Auto Player (working title)_ is a free program designed to free up time during 
 **Interviewer:** Devin O'Neal\
 **Interviewee:** Justin Eggan\
 **When:** 2/11/21\
-**Consumer Segments:** Frequent strategy game player\
+**Consumer Segments:** Frequent strategy game player
 
 **Summary:** Justin expressed frusturation with these types of games, citing a "difficulty finding a balance between time spent gathering and time spent building." While Justin 
 expressed that he believes that he would not use this program very often, he provided key insights into the need for heavy customizability and possible game-specific features 
@@ -69,9 +69,9 @@ that would facilitate competitive play.
 ### Interview 3: 
  
 **Interviewer:** Miles Brown\
-**Interviewee:**Otto Abble\
+**Interviewee:** Otto Abble\
 **When:** 2/11/21\
-**Consumer Segments:** Clash of Clans player\
+**Consumer Segments:** Clash of Clans player
  
 **Summary:** Discovered similar priorities to those already brainstormed. Had a few other ideas that might become options if able. Stressed the importance of connecting to a game account quickly with little hassle. Simplicity and convenience were also mentioned several times.
  
@@ -99,7 +99,7 @@ that would facilitate competitive play.
 **Interviewer:** Miles Brown\
 **Interviewee:** Jake C\
 **When:** 2/11/21\
-**Consumer Segments:** Mobile Gamer\
+**Consumer Segments:** Mobile Gamer
  
 **Summary:** Discovered that he wanted to use the application more actively, rather than have it run in the background. Wanted a few tools to use actively to avoid repetitive activities in game. Also mentioned the easy installation and setup concerns.
  
