@@ -66,5 +66,62 @@ that would facilitate competitive play.
 - Automated resource collection (N)
 - Customizability (M)
 
+### Interview 3: 
+ 
+**Interviewer:** Miles Brown\
+**Interviewee:**Otto Abble\
+**When:** 2/11/21\
+**Consumer Segments:** Clash of Clans player\
+ 
+**Summary:** Discovered similar priorities to those already brainstormed. Had a few other ideas that might become options if able. Stressed the importance of connecting to a game account quickly with little hassle. Simplicity and convenience were also mentioned several times.
+ 
+ 
+**Key Insights:** 
+- Simple Installation
+- Should follow the terms and conditions of the game
+ 
+**Representative Quotes:**
+- “A building queue and resource collection.”
+- “It might break the [terms and conditions]”
+- “I could schedule things then not have to get on at weird times”
+ 
+**Assessment:** Must have (M), Nice to have (N), Don't care (D) 
+- Simple, instantly usable (N)
+- Resource Gathering (M)
+- Building Queue (M)
+- Base scouting (N)
+ 
+ 
+ 
+ 
+### Interview 4: 
+ 
+**Interviewer:** Miles Brown\
+**Interviewee:** Jake C\
+**When:** 2/11/21\
+**Consumer Segments:** Mobile Gamer\
+ 
+**Summary:** Discovered that he wanted to use the application more actively, rather than have it run in the background. Wanted a few tools to use actively to avoid repetitive activities in game. Also mentioned the easy installation and setup concerns.
+ 
+**Key Insights:** 
+- Needs a few basic features
+- Should be able to turn on and off easily
+- Customizable
+ 
+ 
+ 
+**Representative Quotes:**
+“[L]eave me with more time to do the more fun things in game”
+“Easy installation would be nice”
+ 
+**Assessment:** Must have (M), Nice to have (N), Don't care (D) 
+- Save time doing mundane or repetitive activities (M)
+- Resource Gathering (N)
+- Base Searching (N)
+- Easy connection to account and installation (M)\
+ 
+ 
+
+
 
 ## 4. Final Value Proposition and Consumer Segments
