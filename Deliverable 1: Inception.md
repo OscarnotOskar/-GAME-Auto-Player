@@ -45,7 +45,6 @@ that would facilitate competitive play.
 - Customizability (M)
 - Notifications (N)
 
-
 ### Interview 2: 
 
 **Interviewer:** Devin O'Neal\
@@ -75,7 +74,6 @@ that would facilitate competitive play.
  
 **Summary:** Discovered similar priorities to those already brainstormed. Had a few other ideas that might become options if able. Stressed the importance of connecting to a game account quickly with little hassle. Simplicity and convenience were also mentioned several times.
  
- 
 **Key Insights:** 
 - Simple Installation
 - Should follow the terms and conditions of the game
@@ -91,9 +89,6 @@ that would facilitate competitive play.
 - Building Queue (M)
 - Base scouting (N)
  
- 
- 
- 
 ### Interview 4: 
  
 **Interviewer:** Miles Brown\
@@ -108,8 +103,6 @@ that would facilitate competitive play.
 - Should be able to turn on and off easily
 - Customizable
  
- 
- 
 **Representative Quotes:**
 “[L]eave me with more time to do the more fun things in game”
 “Easy installation would be nice”
@@ -119,7 +112,6 @@ that would facilitate competitive play.
 - Resource Gathering (N)
 - Base Searching (N)
 - Easy connection to account and installation (M)\
-
 
 ### Interview 5:
 
@@ -161,9 +153,5 @@ that would facilitate competitive play.
 **Assessment:** Must have (M), Nice to have (N), Don't care (D)
 -Automated resource collection (N)
 -Builder queue (M)
-
- 
-
-
 
 ## 4. Final Value Proposition and Consumer Segments
