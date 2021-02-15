@@ -217,3 +217,13 @@ that would facilitate competitive play.
 -	What the autoplayer does(D)
 
 ## 4. Final Value Proposition and Consumer Segments
+
+### Final Value Proposition:
+_Auto Player (working title)_ is a free program designed to free up time during games, so that you can be efficient in your daily life.
+
+### Final Consumer Segments:
+- Frequent strategy and base building game players
+- Gamers who seek to maximize their free time
+- Parents who want their children to have less screentime
+- Clash of Clans player
+- Mobile gamer
