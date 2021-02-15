@@ -177,4 +177,43 @@ that would facilitate competitive play.
 - attack (M)
 - spend a lot of time (D)
 
+### Interview 8:
+
+***Interviewer:** Junjian Yin
+***Interviewee:** Brittany
+***When:** 2/12/2021
+***Consumer Segments:** Like to play games that have content
+
+**Summary:** Brittany used to play phone game and she quit because she think most phone games have no content, in her view an auto player could be a tool to help her separate games with a lot of repetitive operations or not. She believe a good game should have less repetitive operations.
+
+**Key Insights:**
+-	Autoplay tool might be an indicator of high repeatability game
+
+**Representative Quotes:**
+-	"if the function was just to get the repetitiveness out of it then it shows me that the game itself is just repetitiveness and has no actual content so I would uninstall the game"
+
+**Assessment:** Must have (M), Nice to have (N), Don't care (D)
+-	Get the repetitiveness out(M)
+
+### Interview 9:
+
+***Interviewer:** Junjian Yin
+***Interviewee:** Miss (Her perfer not to say)
+***When:** 2/10/21
+***Consumer Segments:** A mother who want her children play less phone game
+
+**Summary:** Miss doesn't play any phone games, but her children do. And she is wondering if the autoplayer can help her children spend less time on their screen. If we can show that is true so it helps us to border the customer range.
+
+**Key Insights:**
+-	Autoplayer can help player saving times, will it also help on reduce mobile games addicted
+-	Need help collecting resources and builder queue
+
+**Representative Quotes:**
+-	"If autoplayer can reduce the time my children spend on the phone, I am glad to have one. "
+
+**Assessment:** Must have (M), Nice to have (N), Don't care (D)
+-	Let people put down the phone and find another thing to do.(M)
+-	Check how much time they spend on the game(N)
+-	What the autoplayer does(D)
+
 ## 4. Final Value Proposition and Consumer Segments
